@@ -3,13 +3,8 @@
 ![Stars](https://img.shields.io/github/stars/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
 ![Anthropic Ecosystem](https://img.shields.io/badge/Anthropic-Ecosystem-ff6f00?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
-
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge)
-![Claude AI](https://img.shields.io/badge/Built%20for-Claude%20AI-8A2BE2?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Format-Markdown-black?style=for-the-badge)
-
 ![Workflow](https://img.shields.io/badge/Workflow-Senior%20Engineer-green?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Production%20Code-orange?style=for-the-badge)
 
 > **From Bug → Clean → Scalable → Production**
 
