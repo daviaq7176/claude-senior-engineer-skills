@@ -1,5 +1,17 @@
 # Claude Senior Engineer Skills
 
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
+![License](https://img.shields.io/github/license/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
+
+![AI](https://img.shields.io/badge/AI-LLM-blue?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-Skills-purple?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Format-Markdown-black?style=for-the-badge)
+
+![Workflow](https://img.shields.io/badge/Workflow-Senior%20Engineer-green?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Production%20Code-orange?style=for-the-badge)
+
 > **From Bug → Clean → Scalable → Production**
 
 A curated collection of 30 Claude-style skills that mirror how senior engineers *actually* think about code — not just writing it, but understanding, debugging, fixing, refactoring, optimizing, hardening, and reviewing it.
