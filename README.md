@@ -1,8 +1,7 @@
 # Claude Senior Engineer Skills
 
 ![Stars](https://img.shields.io/github/stars/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
+![Anthropic Ecosystem](https://img.shields.io/badge/Anthropic-Ecosystem-ff6f00?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge)
