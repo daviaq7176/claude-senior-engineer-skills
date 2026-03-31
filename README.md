@@ -5,8 +5,8 @@
 ![Contributors](https://img.shields.io/github/contributors/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
 
-![AI](https://img.shields.io/badge/AI-LLM-blue?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-Skills-purple?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge)
+![Claude AI](https://img.shields.io/badge/Built%20for-Claude%20AI-8A2BE2?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Format-Markdown-black?style=for-the-badge)
 
 ![Workflow](https://img.shields.io/badge/Workflow-Senior%20Engineer-green?style=for-the-badge)
