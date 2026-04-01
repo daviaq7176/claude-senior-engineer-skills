@@ -16,6 +16,29 @@ This repository encodes the **mental models, constraints, and judgment** of a se
 
 ---
 
+## 🚀 What's New: Advanced AI Techniques
+
+Every skill now includes **advanced prompting techniques** that dramatically improve Claude's reasoning quality:
+
+| Technique | What It Does |
+|-----------|--------------|
+| 🧠 **Reasoning Protocol** | Forces explicit step-by-step thinking: Observe → Recognize Patterns → Form Hypothesis → Gather Evidence → Conclude |
+| ✅ **Self-Verification Checklist** | Built-in quality gate: evidence grounded? assumptions stated? edge cases covered? |
+| 🎯 **Confidence Assessment** | Tags findings as 🟢 High / 🟡 Medium / 🔴 Low confidence with required actions |
+| ⚔️ **Adversarial Self-Review** | "What would a skeptical senior engineer challenge?" — addresses strongest objection |
+
+### Why This Matters
+
+Traditional prompts produce **answers**. These skills produce **auditable reasoning**:
+
+```
+❌ Old: "The bug is in line 42"
+✅ New: "Based on [evidence], I hypothesize [X]. This is supported by [Y] but
+        contradicted by [Z]. Confidence: Medium. Verify by [action]."
+```
+
+---
+
 ## 🔄 The Pipeline
 
 | Stage | Folder | Skills | Purpose |
@@ -143,6 +166,48 @@ Each skill encodes:
 - **Senior-level framing** — how to think about the problem, not just how to execute
 - **Structured outputs** — so you always know what you're getting back
 - **Real-world focus** — edge cases, concurrency, production failures, legacy code
+- **Explicit reasoning** — show your work, not just conclusions
+- **Built-in verification** — self-check before delivering results
+- **Calibrated confidence** — know when to trust the output and when to verify
+
+---
+
+## 📋 Skill Anatomy
+
+Every skill follows a consistent structure:
+
+```markdown
+# Skill: [Name]
+
+## Purpose
+What problem this solves and when to use it
+
+## Reasoning Protocol          ← NEW: Structured thinking before output
+<reasoning>
+1. Observation → 2. Pattern Recognition → 3. Hypothesis → 4. Evidence → 5. Conclusion
+</reasoning>
+
+## Instructions
+Step-by-step execution guide with constraints
+
+## Inputs
+What the skill needs to work
+
+## Output
+Exact shape of what you'll get back
+
+## Self-Verification Checklist  ← NEW: Quality gate before delivery
+- [ ] Evidence grounded
+- [ ] No speculation as fact
+- [ ] Edge cases considered
+- [ ] Assumptions explicit
+
+## Confidence Assessment        ← NEW: Know when to trust output
+🟢 High (90%+) | 🟡 Medium (60-90%) | 🔴 Low (<60%)
+
+## Adversarial Self-Review      ← NEW: Challenge your own analysis
+What did I miss? What would a skeptic challenge?
+```
 
 ---
 
@@ -151,10 +216,11 @@ Each skill encodes:
 1. Fork the repository
 2. Copy `templates/skill-template.md`
 3. Fill in all sections completely — no vague instructions
-4. Place it in the appropriate stage folder
-5. Open a PR with: skill name, purpose, and the problem it solves
+4. **Include all advanced sections**: Reasoning Protocol, Self-Verification, Confidence Assessment, Adversarial Review
+5. Place it in the appropriate stage folder
+6. Open a PR with: skill name, purpose, and the problem it solves
 
-**Quality bar:** Your skill should read like it was written by a principal engineer who has felt the pain this skill addresses.
+**Quality bar:** Your skill should read like it was written by a principal engineer who has felt the pain this skill addresses. Every claim must be traceable to evidence.
 
 ---
 
